@@ -1,0 +1,24 @@
+.details
+{
+    width: 95%;
+    margin: auto;
+    padding: 10px;
+}
+.flexsearch
+{
+    display: flex;
+    align-items: flex-end;
+    gap: 20px;
+}
+.flexsearch select
+{
+    width: 100%;
+}
+.flexsearch label
+{
+    width: 100%;
+}
+.fkexsearch input
+{
+    width:100%;
+}

@@ -1,0 +1,39 @@
+
+.vehiclestyle input{
+    width:100%;
+    margin-bottom:13px;
+    border-radius: 5px;  
+}
+.vehiclestyle{
+    margin-left: 20px;
+    margin-top: 3%;
+    width: 60%;
+    border: 0px solid rgb(210, 216, 221);
+    padding: 40px;
+    border-radius: 25px;
+    background-color: #f4faff;
+}
+.flex{
+    display: flex;
+    gap: 50px;
+    margin-bottom: 2%;
+    margin-top: 1%;
+}
+.vehiclestyle button{
+    width: 35%;
+    border-radius: 5px;
+    border: 0px;
+    margin: auto;
+    display: block;
+    background-color: rgb(71, 173, 71);
+}
+.vehiclestyle label{
+    width: 100%;
+   
+}
+
+.flexform
+{
+    display: flex;
+    gap: 15px;
+}

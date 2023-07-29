@@ -1,0 +1,21 @@
+
+.filter{
+    width: 98%;
+    margin: auto;
+}
+
+.flexsearch{
+    display: flex;
+    gap: 10px;
+    align-items: flex-end;
+    margin-top: 1%;
+}
+
+.flexsearch button
+{
+    height: 30px;
+}
+.flexsearch label
+{
+    width: 100%;
+}

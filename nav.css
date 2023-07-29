@@ -1,0 +1,17 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar{
+    background-color: rgb(121, 186, 243);
+    padding: 5px;
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar li{
+    float: left;
+    list-style: none;
+    font-size:15px;
+    margin:0px 10px;
+}
